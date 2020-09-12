@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8124c96-4262-4356-ad74-3d8810b136f2" name="Default Changelist" comment="" />
+    <list default="true" id="d8124c96-4262-4356-ad74-3d8810b136f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GildedRose.php" beforeDir="false" afterPath="$PROJECT_DIR$/GildedRose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/Item.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/agedBrie.php" beforeDir="false" afterPath="$PROJECT_DIR$/entities/agedBrie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/backstagePasses.php" beforeDir="false" afterPath="$PROJECT_DIR$/entities/backstagePasses.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/conjured.php" beforeDir="false" afterPath="$PROJECT_DIR$/entities/conjured.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/sulfuras.php" beforeDir="false" afterPath="$PROJECT_DIR$/entities/sulfuras.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory.php" beforeDir="false" afterPath="$PROJECT_DIR$/factory.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +38,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hCoNKWkK5E4n0EJcKZB5SNavUj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,21 +76,46 @@
       <workItem from="1599683660228" duration="4302000" />
       <workItem from="1599701574620" duration="78000" />
       <workItem from="1599734620568" duration="4075000" />
+      <workItem from="1599743300871" duration="356000" />
+      <workItem from="1599743683895" duration="20000" />
+      <workItem from="1599743719341" duration="3019000" />
+      <workItem from="1599781189953" duration="6098000" />
+      <workItem from="1599822723134" duration="5499000" />
+      <workItem from="1599842658258" duration="6000" />
+      <workItem from="1599852573964" duration="1425000" />
+      <workItem from="1599912491805" duration="4233000" />
+      <workItem from="1599934132378" duration="1925000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="392" y="164" width="565" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599687926897">
       <screen x="0" y="27" width="1360" height="691" />
     </state>
     <state x="392" y="164" width="565" height="423" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1360.691@0.27.1360.691" timestamp="1599687926897" />
-    <state x="391" y="76" width="567" height="600" key="NewPhpClassDialog" timestamp="1599736405664">
+    <state x="384" y="27" width="573" height="691" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599825502889">
       <screen x="0" y="27" width="1360" height="691" />
     </state>
-    <state x="391" y="76" width="567" height="600" key="NewPhpClassDialog/0.27.1360.691@0.27.1360.691" timestamp="1599736405664" />
+    <state x="384" y="27" width="573" height="691" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1360.691@0.27.1360.691" timestamp="1599825502889" />
+    <state x="391" y="76" width="647" height="607" key="NewPhpClassDialog" timestamp="1599914695392">
+      <screen x="0" y="27" width="1360" height="691" />
+    </state>
+    <state x="391" y="76" width="647" height="607" key="NewPhpClassDialog/0.27.1360.691@0.27.1360.691" timestamp="1599914695392" />
     <state x="475" y="294" width="399" height="164" key="NewPhpFileDialog" timestamp="1599736384726">
       <screen x="0" y="27" width="1360" height="691" />
     </state>
